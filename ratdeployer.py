@@ -48,5 +48,3 @@ def ratInterface():
     time.sleep(1)
     print("done!\n")
     print(f"Rat of type {rat} has been deployed at {addr}")
-
-ratInterface()
